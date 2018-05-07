@@ -1,6 +1,6 @@
 {
   "name": "rdf-dataset-callback",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Callback wrapper for RDFJS Datasets",
   "main": "index.js",
   "scripts": {
